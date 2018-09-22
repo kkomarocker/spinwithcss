@@ -1,3 +1,4 @@
 # Logo Spin
 
-Open `index.html` to see the logo spinning!
+- clone this repository
+- Open `index.html` to see the logo spinning!
